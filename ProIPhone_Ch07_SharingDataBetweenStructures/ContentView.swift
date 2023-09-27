@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-import SwiftUI
-
 struct ContentView: View {
     var body: some View {
         TabView {
@@ -29,6 +27,10 @@ struct ContentView: View {
             EnvironmentObjectView()
                 .tabItem {
                     Image(systemName: "4.circle")
+                }
+            ch07()
+                .tabItem{
+                    Image(systemName: "5.circle")
                 }
         }
         .tabViewStyle(DefaultTabViewStyle())

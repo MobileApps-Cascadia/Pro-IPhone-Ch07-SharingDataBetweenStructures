@@ -16,6 +16,7 @@
 		E4554F9D2AC3EE8F00644AB6 /* DisplayTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4554F9C2AC3EE8F00644AB6 /* DisplayTextField.swift */; };
 		E4554F9F2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4554F9E2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift */; };
 		E4554FA12AC403B000644AB6 /* EnvironmentObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4554FA02AC403B000644AB6 /* EnvironmentObjectView.swift */; };
+		EDF161122AC4F2C200DAB023 /* ch07.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDF161112AC4F2C200DAB023 /* ch07.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E4554F9C2AC3EE8F00644AB6 /* DisplayTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayTextField.swift; sourceTree = "<group>"; };
 		E4554F9E2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateObjectandObservedObject.swift; sourceTree = "<group>"; };
 		E4554FA02AC403B000644AB6 /* EnvironmentObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentObjectView.swift; sourceTree = "<group>"; };
+		EDF161112AC4F2C200DAB023 /* ch07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ch07.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				E4554F9C2AC3EE8F00644AB6 /* DisplayTextField.swift */,
 				E4554F9E2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift */,
 				E4554FA02AC403B000644AB6 /* EnvironmentObjectView.swift */,
+				EDF161112AC4F2C200DAB023 /* ch07.swift */,
 				E4554F8E2AC3E9CE00644AB6 /* Assets.xcassets */,
 				E4554F902AC3E9CE00644AB6 /* Preview Content */,
 			);
@@ -159,6 +162,7 @@
 				E4554F9B2AC3EDD600644AB6 /* StateAndBinding.swift in Sources */,
 				E4554F9F2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift in Sources */,
 				E4554FA12AC403B000644AB6 /* EnvironmentObjectView.swift in Sources */,
+				EDF161122AC4F2C200DAB023 /* ch07.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,7 +291,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ProIPhone_Ch07_SharingDataBetweenStructures/Preview Content\"";
-				DEVELOPMENT_TEAM = 3ZQJ35HR4K;
+				DEVELOPMENT_TEAM = 2N3K33KLKM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -316,7 +320,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"ProIPhone_Ch07_SharingDataBetweenStructures/Preview Content\"";
-				DEVELOPMENT_TEAM = 3ZQJ35HR4K;
+				DEVELOPMENT_TEAM = 2N3K33KLKM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
