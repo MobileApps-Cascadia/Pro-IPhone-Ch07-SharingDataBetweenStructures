@@ -30,6 +30,11 @@ struct ContentView: View {
                 .tabItem {
                     Image(systemName: "4.circle")
                 }
+            // Add your NewTopLevelView as a new tab
+               NewTopLevelView()
+                   .tabItem {
+                       Image(systemName: "5.circle")
+                   }
         }
         .tabViewStyle(DefaultTabViewStyle())
 
