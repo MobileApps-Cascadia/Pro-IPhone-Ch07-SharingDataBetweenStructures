@@ -30,6 +30,10 @@ struct ContentView: View {
                 .tabItem {
                     Image(systemName: "4.circle")
                 }
+            InClassActivity()
+                .tabItem {
+                    Image(systemName: "5.circle")
+                }
         }
         .tabViewStyle(DefaultTabViewStyle())
 

@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FFCF0EB2AD603530030C7B6 /* InClassActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCF0EA2AD603530030C7B6 /* InClassActivity.swift */; };
+		3FFCF0ED2AD606F00030C7B6 /* toggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCF0EC2AD606F00030C7B6 /* toggleView.swift */; };
 		E4554F8B2AC3E9CA00644AB6 /* ProIPhone_Ch07_SharingDataBetweenStructuresApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4554F8A2AC3E9CA00644AB6 /* ProIPhone_Ch07_SharingDataBetweenStructuresApp.swift */; };
 		E4554F8D2AC3E9CA00644AB6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4554F8C2AC3E9CA00644AB6 /* ContentView.swift */; };
 		E4554F8F2AC3E9CE00644AB6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4554F8E2AC3E9CE00644AB6 /* Assets.xcassets */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3FFCF0EA2AD603530030C7B6 /* InClassActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InClassActivity.swift; sourceTree = "<group>"; };
+		3FFCF0EC2AD606F00030C7B6 /* toggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = toggleView.swift; sourceTree = "<group>"; };
 		E4554F872AC3E9CA00644AB6 /* ProIPhone_Ch07_SharingDataBetweenStructures.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProIPhone_Ch07_SharingDataBetweenStructures.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4554F8A2AC3E9CA00644AB6 /* ProIPhone_Ch07_SharingDataBetweenStructuresApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProIPhone_Ch07_SharingDataBetweenStructuresApp.swift; sourceTree = "<group>"; };
 		E4554F8C2AC3E9CA00644AB6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -68,6 +72,8 @@
 				E4554F9C2AC3EE8F00644AB6 /* DisplayTextField.swift */,
 				E4554F9E2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift */,
 				E4554FA02AC403B000644AB6 /* EnvironmentObjectView.swift */,
+				3FFCF0EA2AD603530030C7B6 /* InClassActivity.swift */,
+				3FFCF0EC2AD606F00030C7B6 /* toggleView.swift */,
 				E4554F8E2AC3E9CE00644AB6 /* Assets.xcassets */,
 				E4554F902AC3E9CE00644AB6 /* Preview Content */,
 			);
@@ -154,10 +160,12 @@
 			files = (
 				E4554F9D2AC3EE8F00644AB6 /* DisplayTextField.swift in Sources */,
 				E4554F8D2AC3E9CA00644AB6 /* ContentView.swift in Sources */,
+				3FFCF0ED2AD606F00030C7B6 /* toggleView.swift in Sources */,
 				E4554F8B2AC3E9CA00644AB6 /* ProIPhone_Ch07_SharingDataBetweenStructuresApp.swift in Sources */,
 				E4554F992AC3EB0C00644AB6 /* RandomBackgroundColor.swift in Sources */,
 				E4554F9B2AC3EDD600644AB6 /* StateAndBinding.swift in Sources */,
 				E4554F9F2AC3FF2C00644AB6 /* StateObjectandObservedObject.swift in Sources */,
+				3FFCF0EB2AD603530030C7B6 /* InClassActivity.swift in Sources */,
 				E4554FA12AC403B000644AB6 /* EnvironmentObjectView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
